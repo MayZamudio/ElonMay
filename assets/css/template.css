@@ -2672,6 +2672,9 @@ button {
     .module-slides p {
         font-size: 12px;
     }
+    #features{
+        display: none;
+    }
 }
 
 /*------------------------------------------------------------------
