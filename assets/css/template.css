@@ -1725,6 +1725,8 @@ button {
     left: -38px;
 }
 
+
+
 @media (max-width: 767px) {
     ul.timeline:before,
     ul.timeline > li > .timeline-badge,
@@ -2716,7 +2718,7 @@ button {
 }
 
 .module-sm {
-    padding: 60px 0 40px;
+    padding: 0 ;
 }
 
 .parallax {
@@ -3207,7 +3209,7 @@ a[rel~="gallery"]:hover {
 
 .post-preview img {
     width: 100%;
-    transition: all .7s cubic-bezier(.2, 1, .22, 1);
+    /* transition: all .7s cubic-bezier(.2, 1, .22, 1); */
 }
 
 .blog-grid .post-preview .post-category,
