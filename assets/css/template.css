@@ -1669,10 +1669,6 @@ button {
     width: 100%;
 }
 
-.timeline > li > .timeline-panel .timeline-preview .image-slider .owl-carousel img {
-    width: 100%;
-}
-
 .timeline > li > .timeline-panel .timeline-body {
     padding: 40px 45px;
 }
