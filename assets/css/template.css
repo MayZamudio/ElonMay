@@ -2913,6 +2913,7 @@ button {
 .portfolio-wrapper {
     position: relative;
     overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(75, 52, 52, 0.19);
 }
 
 .portfolio-wrapper .portfolio-img-wrap {
